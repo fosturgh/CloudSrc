@@ -1092,5 +1092,41 @@ table.office365Benefits tr td:first-child { font-weight: bold; color: #3399CC; }
 			   
 				margin-top: 1em;  }	
 				
-.contact-box { margin-top: 10px; }				
-				
+.contact-box { margin-top: 10px; }	
+
+
+
+
+/* -- Jack's New Styles --*/			
+
+
+.system-cont h1 { color: #619301 !important; 
+				  font-size: 1.5em !important; }
+				  
+.system-cont img { margin-bottom: 1em; }
+
+.highlight2 { height: 67px;
+			 border-left: solid 5px #619301;
+			 margin: 1em 0 0 0;
+			  }
+
+.highlight2 h2 { font-size: 16px !important; 
+					color: #619301 !important;
+					padding-left: 1.5em !important;
+					  }				
+					  
+					  
+.scribe img { float: left; margin-top: 2em; width: 158px; }
+
+.scribe p { width: 460px; float: left; margin: 1em 0 1em 0.5em; }
+
+.scribe h1 { font-size: 1.5em !important;}
+
+.bottom-sect p { width: 460px; float: left; margin: 0em 0 1em 0.5em; }	
+
+.bottom-sect img { float: left; margin-top: 2em; }
+
+.bottom-sect h1 { width: 460px;
+			     	float: left;
+				}
+				  
